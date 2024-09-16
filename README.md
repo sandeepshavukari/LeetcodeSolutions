@@ -7,5 +7,5 @@ Each file contain the solution code that I typed in that particular question.
 Language used: 
 **JAVA**
 ----------------------
-Suggestions:
+**Suggestions:**
 If you have suggestions, feel free to open a pull request or create an issue.
