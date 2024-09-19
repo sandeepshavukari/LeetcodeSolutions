@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+class FindAllNumbers {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         for(int i=0;i<nums.length;i++)
         {
@@ -34,4 +36,4 @@ O(n)
 - Space complexity:
 O(1)
 */
-# Code
+

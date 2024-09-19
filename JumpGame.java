@@ -1,4 +1,4 @@
-class Solution {
+class JumpGame {
     public boolean canJump(int[] nums) {
         if(nums.length<=1)
         return true;

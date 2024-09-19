@@ -1,4 +1,5 @@
-class Solution {
+import java.util.List;
+class SnakeInMatrix {
     public int finalPositionOfSnake(int n, List<String> commands) {
         int ro=0;int co=0;
         for(int i=0;i<commands.size();i++)
