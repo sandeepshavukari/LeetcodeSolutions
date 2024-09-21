@@ -10,7 +10,7 @@ public class SquaresOfASortedArray  {
         return nums;
     }
      //Solution with Time Complexity of  O(n^2)
-    public int[] sortedSquares1(int[] nums) {
+    public int[] sortedSquare(int[] nums) {
         int n=nums.length;
         for(int i=0;i<n;i++)
         {
