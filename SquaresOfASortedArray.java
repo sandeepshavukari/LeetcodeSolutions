@@ -1,3 +1,4 @@
+import java.util.*;
 public class SquaresOfASortedArray  {
     //Solution with Time Complexity of  O(n log n)
     public int[] sortedSquares(int[] nums) {
