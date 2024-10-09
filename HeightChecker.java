@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class HeightChecker {
     public int heightChecker(int[] heights) {
         int ar[]= new int[heights.length];
