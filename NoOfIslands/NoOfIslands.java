@@ -3,7 +3,7 @@ public class NoOfIslands{
     int col;
     boolean visited[][];
     public int numIslands(char[][] grid) {
-        // int row,col
+        // int row,col;
         int c=0;
         row=grid.length;
         col=grid[0].length;
