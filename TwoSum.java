@@ -18,5 +18,6 @@ public class TwoSum-ii {
         ar[0]=a+1;
         ar[1]=b+1;
         return ar;
+
     }
 }
