@@ -11,6 +11,7 @@ public class RemeoveElement {
                 j--;
             }
         }
+        
         return n-k;
     } 
 }
