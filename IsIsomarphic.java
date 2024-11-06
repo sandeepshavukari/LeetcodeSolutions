@@ -9,6 +9,7 @@ class IsIsomarphic {
         if(s_arr[s.charAt(i)] != t_arr[t.charAt(i)]) return false;
         else
         {
+            
             s_arr[s.charAt(i)]=i+1;
             t_arr[t.charAt(i)]=i+1;
         }
