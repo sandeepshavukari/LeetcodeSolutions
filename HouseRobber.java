@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class HouseRobber {
     public static int robans(int n,int ar[],int dp[])
     {
