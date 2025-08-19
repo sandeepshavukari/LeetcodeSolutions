@@ -1,4 +1,4 @@
-public class SetColors {
+public class SortColors {
     public void sortColors(int[] ar) {
         int zc=0,oc=0,tc=0;
         for(int i=0;i<ar.length;i++)
