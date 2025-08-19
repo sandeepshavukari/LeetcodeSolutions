@@ -8,7 +8,7 @@ class SubsetSum{
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> allss=new ArrayList<>();
-        Set<List<Integer>> set= new HashSet()<>();
+        Set<List<Integer>> set= new HashSet<>();
         for(int i=0;i<(1<<nums.length);i++)
         {
             List<Integer> li = new ArrayList<>();
