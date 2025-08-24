@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class PowerSet {
     static void powerSet(int[] arr, int index, List<Integer> curr, List<List<Integer>> result) {
         if (index == arr.length) {
