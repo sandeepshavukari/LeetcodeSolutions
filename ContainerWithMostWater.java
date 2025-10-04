@@ -10,6 +10,7 @@ public class ContainerWithMostWater {
             else j--;
             if (area>max) max=area;
         }
+        
         return max;
     }
 }
