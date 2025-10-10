@@ -15,7 +15,6 @@ public class BinarySerchRecursive {
         int l=0;
         int h=n-1;
         return fun(nums,l,h,target);
-
     }
 
 }
