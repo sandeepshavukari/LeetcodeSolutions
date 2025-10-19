@@ -10,6 +10,7 @@ public class ContainsDuplicatesII {
         //     }
         // }
         // return false;
+        
         HashSet<Integer> h= new HashSet<>();
         for(int i=0;i<ar.length;i++)
         {
