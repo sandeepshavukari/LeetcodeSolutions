@@ -9,7 +9,6 @@ class AddTwoNumbers {
         l1 = l1.next;
       }
       
-      
       if (l2 != null) {
         carry += l2.val;
         l2 = l2.next;
