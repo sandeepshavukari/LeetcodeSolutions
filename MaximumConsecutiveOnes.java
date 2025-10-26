@@ -10,7 +10,6 @@ class MaximumConsecutiveOnes {
                 else
                 c=0;
                 mc=Math.max(mc,c);
-                
             }
             return mc;
         }
