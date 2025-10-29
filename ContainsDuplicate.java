@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> s= new HashSet<>();
