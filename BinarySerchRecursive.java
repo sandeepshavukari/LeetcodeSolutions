@@ -1,4 +1,5 @@
 public class BinarySerchRecursive {
+     
 
      public static int fun(int ar[],int l,int h,int t)
     {
