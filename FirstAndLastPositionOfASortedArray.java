@@ -1,7 +1,7 @@
 public class FirstAndLastPositionOfASortedArray {
     public static int ub(int ar[],int key)
     {
-        int l=0,h=ar.length-1,a=ar.length,m;
+        int l=0,h=ar.length-1,a=ar.length,m ;
         while(l<=h)
         {
             m=l+(h-l)/2;
