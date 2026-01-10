@@ -7,6 +7,6 @@ public NumberOfSeniorCitizens() {
             if(a >60)
            c++;
         }
-        return c;
+         return c;
     }
 }
