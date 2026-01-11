@@ -1,4 +1,5 @@
 public NumberOfSeniorCitizens() {
+    
     public int countSeniors(String[] details) {
         int c=0,n=details.length;
         for(int i=0;i<n;i++)
