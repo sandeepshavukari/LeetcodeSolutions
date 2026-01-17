@@ -4,6 +4,7 @@ public class ContainerWithMostWater {
         int n=height.length;
         int max =0;
         int area;
+        
         int i=0,j=n-1;
         while(i<j){
             area=(j-i) * Math.min( height[i] , height[j] );
